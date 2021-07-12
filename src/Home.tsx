@@ -41,26 +41,3 @@ function Home() {
 }
 
 export default Home;
-
-// {
-//   "count": 101,
-//   "rows": [
-//     {
-//       "product_id": 3,
-//       "name": "Coat of Arms",
-//       "description": "Ther...",
-//       "price": "14.50",
-//       "discounted_price": "0.00",
-//       "thumbnail": "coat-of-arms-thumbnail.gif"
-//     },
-//     {
-//       "product_id": 4,
-//       "name": "Gallic Cock",
-//       "description": "This...",
-//       "price": "18.99",
-//       "discounted_price": "16.99",
-//       "thumbnail": "gallic-cock-thumbnail.gif"
-//     }
-//   ]
-// }
-// https://backendapi.turing.com/products?page=2&limit=2&description_length=4
